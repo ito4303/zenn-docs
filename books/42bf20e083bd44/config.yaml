@@ -1,5 +1,5 @@
-title: "Rではじめる生態学の統計処理"
-summary: "生態学で必要となる統計処理をRで学ぶ"
+title: "Rではじめる生態学の統計解析"
+summary: "生態学で必要となる統計解析をRで学ぶ"
 topics: ["R", "Ecology", "Statistics"]
 published: false
 price: 0 # 有料の場合200〜5000
@@ -7,3 +7,4 @@ price: 0 # 有料の場合200〜5000
 chapters:
   - 01_introduction
   - 02_one_sample
+  - 03_two_sample

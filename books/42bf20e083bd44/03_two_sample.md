@@ -1,0 +1,12 @@
+---
+title: "2標本の統計"
+format: html
+keep-md: true
+embed-resources: true
+editor: visual
+---
+
+
+
+
+2つの標本について、母数に違いがあるかどうかを検定する方法などを紹介します。

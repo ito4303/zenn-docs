@@ -1,7 +1,13 @@
 node_modules
 .DS_Store
+
+# emacs files
 \#*#
 .#*
+*~
+
+# R, RStudio and Quarto files
+.Rhistory
 .Rproj.user
 *_files/
 *.html

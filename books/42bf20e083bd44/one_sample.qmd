@@ -1,5 +1,5 @@
 ---
-title: "1標本の統計処理"
+title: "1標本の統計"
 format: html
 keep-md: true
 embed-resources: true
